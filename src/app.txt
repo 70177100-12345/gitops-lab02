@@ -1,6 +1,10 @@
 "GitOps Student Project" 
 "Version 1" 
 "Login feature implemented" 
+<<<<<<< HEAD
 "Temporary unfinished work" 
 "Commit to demonstrate recovery" 
 "Commit to demonstrate recovery" 
+=======
+"Student profile feature" 
+>>>>>>> 27f12ad60bfa1f92363e4ebb7bffdfc02b0afe04
